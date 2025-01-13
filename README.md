@@ -38,13 +38,6 @@ Welcome to my GitHub profile! I'm a passionate web developer and entrepreneur wi
 - 📊 **HKVIFIC Fanchart Project Management System** *(Private Repository)* - A trusted system for managing fanchart goods and giveaway events, deployed in successful community events with 500+ attendees.  
 - 📊 **VTuber 人気総選挙 2023 in 香港** - VTuber election voting Present By Hong Kong Virtual Idol Fanatics in 2023 Summer, deployed in successful community events with 13000+ Tickets were Voted .  
 
----
-
-## 📈 GitHub Stats
-
-![TaddeoLeung's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaddeoLeung&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaddeoLeung&layout=compact&theme=tokyonight&count_private=true)
 
 ---
 

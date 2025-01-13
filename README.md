@@ -9,10 +9,8 @@ Welcome to my GitHub profile! I'm a passionate web developer and entrepreneur wi
 
 ## 🏢 Founder & Projects
 
-- **Founder** of **Moon Foxer Studio** *(2021 - 2024)*  
-  *Creative Studio focused on innovative digital solutions.*
-  
-- **Frontend Developer** at **Moon Foxer Studio** *(2021 - 2024)*  
+- **Founder - Frontend Developer** of **Moon Foxer Studio** *(2021 - 2024)*  
+  *Creative Studio focused on Virtual Idol Entertainment Project.*
   *Led frontend development for various private projects, focusing on user experience and performance.*
 
 - **Developer** of **BAONLYHK Frontend Website** *(Feb 2024 - Apr 2024)*  
@@ -29,16 +27,16 @@ Welcome to my GitHub profile! I'm a passionate web developer and entrepreneur wi
 ## 💻 Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript, TypeScript  
-- **Frameworks/Libraries:** React, Vue (if applicable)  
+- **Frameworks/Libraries:** React, NextJS 14/15, TailwindCSS , Bootstrap 5.0 
 - **Other Skills:** Responsive Design, UI/UX, Website Optimization
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🌐 **BAONLYHK Frontend Website** *(Private Repository)* - Developed a responsive and user-friendly website for BAONLYHK.  
-- 📊 **HKVIFIC Fanchart Management System** *(Private Repository)* - A trusted system for managing fanchart goods and giveaway events, deployed in successful community events with 500+ attendees.  
-- 📊 **Other Private Projects** - Web development projects focused on custom solutions and interactive designs.  
+- 🌐 **BAONLYHK Offical Website (Frontend Part)** *(Private Repository)* - Developed a responsive and user-friendly website for BAONLYHK.  
+- 📊 **HKVIFIC Fanchart Project Management System** *(Private Repository)* - A trusted system for managing fanchart goods and giveaway events, deployed in successful community events with 500+ attendees.  
+- 📊 **VTuber 人気総選挙 2023 in 香港** - VTuber election voting Present By Hong Kong Virtual Idol Fanatics in 2023 Summer, deployed in successful community events with 13000+ Tickets were Voted .  
 
 ---
 
